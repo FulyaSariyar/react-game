@@ -1,6 +1,6 @@
 <img src="resources/react-world-banner.png"/>
 
-## Few layers, scroll event manipulations and of course famous movie and game characters. [ Live Demo](https://github.com/FulyaSariyar/#)
+## Few layers, scroll event manipulations and of course famous movie and game characters.)
 
 <img src="resources/preview.gif"/>
 
